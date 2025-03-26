@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Español"
+title: ""
 permalink: /español/
 author_profile: true
 ---
