@@ -23,13 +23,13 @@ repository               : "larakelly-iturriaga/larakelly-iturriaga.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Lara Kelly-Iturriaga"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Edinburgh, Scotland, UK"
+  employer         : "The University of Edinburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s1665953@ed.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
