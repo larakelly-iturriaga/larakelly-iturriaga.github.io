@@ -29,6 +29,10 @@ También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?
 Para mi máster investigué cómo **estudiantes de inglés como lengua extranjera con L1-turco y L1-castellano procesaban los homógrafos interlingüísticos** en una tarea de decisión léxica en su L2. La tarea también incluía palabras control (igualadas en longitud y frecuencia) y pseudo-palabras con ortografía inglesa. Si quieres echar un vistazo a los estímulos utilizados en este estudio, los puedes encontrar [aquí](https://osf.io/h6mcx).
 
 --------------------------------------------------------------------------------------------------------------------
+# **Publicaciones**
+Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, J. (2025). _The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior_. PsyArXiv. [https://osf.io/preprints/psyarxiv/29ucp_v3](https://osf.io/preprints/psyarxiv/29ucp_v3).
+
+--------------------------------------------------------------------------------------------------------------------
 # **Presentaciones y charlas**
 
 | Título  | Evento | Fecha |
