@@ -4,6 +4,7 @@ title:
 permalink: /talks/
 author_profile: true
 ---
+**Talks**
 
 | Title  | Event | Date |
 | ------------- | ------------- | ------------- |
