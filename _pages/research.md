@@ -18,7 +18,7 @@ My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof
 
 --------------------------------------------------------------------------------------------------------------------
 
-I also worked with [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) and [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) on a systematic review of the role of language distance in bilingual cognition. You can find a pre-print [here](https://osf.io/preprints/psyarxiv/29ucp_v3).
+I also worked with [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) and [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) on a **systematic review of the role of language distance in bilingual cognition**. You can find a pre-print [here](https://osf.io/preprints/psyarxiv/29ucp_v3).
 
 --------------------------------------------------------------------------------------------------------------------
 
