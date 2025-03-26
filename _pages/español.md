@@ -29,7 +29,8 @@ También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?
 Para mi máster investigué cómo **estudiantes de inglés como lengua extranjera con L1-turco y L1-castellano procesaban los homógrafos interlingüísticos** en una tarea de decisión léxica en su L2. La tarea también incluía palabras control (igualadas en longitud y frecuencia) y pseudo-palabras con ortografía inglesa. Si quieres echar un vistazo a los estímulos utilizados en este estudio, los puedes encontrar [aquí](https://osf.io/h6mcx).
 
 --------------------------------------------------------------------------------------------------------------------
-# **Presentaciones y charlas** 
+# **Presentaciones y charlas**
+
 | Título  | Evento | Fecha |
 | -------------------------- | -------------------------- | ------------------: |
 | _The role of language distance in bilingual language processing_ (Póster)  | [15 Simposio Internacional del Bilingüismo (ISB15)](https://www.bcbl.eu/events/isb15/en/)  | 9-13 de junio de 2025  |
