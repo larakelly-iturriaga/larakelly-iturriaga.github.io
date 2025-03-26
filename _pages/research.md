@@ -15,3 +15,7 @@ Exploring bilinguals' L2 word recognition by comparing instances of cross-langua
 3. Study 3, comparing L2 and L3 word recognition in Azeri-Turkish-English trilinguals from one-language contexts
 
 My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
+
+--------------------------------------------------------------------------------------------------------------------
+
+For my MA thesis, I focused on how **L1-Turkish and L1-Spanish learners of English processed interlingual homographs** in an L2 lexical decision task. The task also included control words (matched in frequency and length) and English-like non-words. If you are interested in the stimuli used for this study, you can find them [here](https://osf.io/h6mcx). 
