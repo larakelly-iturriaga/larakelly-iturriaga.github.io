@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: 
+title: Talks
 permalink: /talks/
 author_profile: true
 ---
-**Talks**
 
 | Title  | Event | Date |
 | ------------- | ------------- | ------------- |
