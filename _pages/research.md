@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-**Research**
-============
 My PhD research focuses on **the role of language distance in bilingual language processing**. **Language distance** can be defined as the overlap between linguistic features (e.g., lexical, phonetic, morphosyntactic, orthographic) across languages.
 Specifically, I look at whether the **L1-L2 distance influences bilingual lexical access**. 
 
@@ -16,4 +14,4 @@ Exploring bilinguals' L2 word recognition by comparing instances of cross-langua
 2. Study 2, comparing Basque-Spanish and Catalan-Spanish bilinguals from two-language contexts
 3. Study 3, comparing L2 and L3 word recognition in Azeri-Turkish-English trilinguals from one-language contexts
 
-My supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
+My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
