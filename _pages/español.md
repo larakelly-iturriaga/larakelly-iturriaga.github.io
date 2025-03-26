@@ -11,6 +11,7 @@ Soy una estudiante de **doctorado en Lingüística y Lengua Inglesa** en la **Un
 Crecí en **Bilbao, Euskal Herria**, un entorno bilingüe. Mis padres me criarion bilingüe en **inglés y castellano**, a través del método One Parent One Language. Aprendí **euskera** (con 6 años) y **francés** (con 12 años) como L2 en el colegio. Mientras estudiaba la carrera, hice una estancia Erasmus+ en Bolonia, Italia, donde aprendí **italiano**. Ahora estoy aprendiendo **turco**. 
 
 --------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 # **Investigación**
 Mi investigación se centra en **el rol de la distancia interlingüística en el procesamiento del lenguaje en personas bilingües**. La distancia interlingüística se puede definir como la superposición de características lingüísticas (e.g., léxicas, fonéticas, morfosintácticas, ortográficas) entre lenguas. Más concretamente, me centro en si **la distancia L1-L2 afecta al acceso léxico bilingüe**.
 
@@ -21,5 +22,8 @@ Como parte de mi proyecto de doctorado, estoy explorando el reconocimiento de pa
 
 Mis supervisores de doctorado son [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) y [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
+--------------------------------------------------------------------------------------------------------------------
+También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**. Puedes encontrar nuestro pre-print [aquí](https://osf.io/preprints/psyarxiv/29ucp_v3).
 
+--------------------------------------------------------------------------------------------------------------------
 
