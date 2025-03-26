@@ -31,7 +31,7 @@ Para mi máster investigué cómo **estudiantes de inglés como lengua extranjer
 --------------------------------------------------------------------------------------------------------------------
 # **Presentaciones y charlas** 
 | Título  | Evento | Fecha |
-| -------------------------- | -------------------------- | ------------------- |
+| -------------------------- | -------------------------- | ------------------: |
 | _The role of language distance in bilingual language processing_ (Póster)  | [15 Simposio Internacional del Bilingüismo (ISB15)](https://www.bcbl.eu/events/isb15/en/)  | 9-13 de junio de 2025  |
 | _The role of language distance in bilingual language processing_  | [Conferencia de Postgrado de Lingüística y Lengua Inglesa 2025](https://pgc.lel.ed.ac.uk/), Universidad de Edimburgo  | 4-6 de junio de 2025  |
 | _Exploring the role of language distance in bilingual cognition: A systematic review_ (Póster)  | [Simposio Bilingualism Matters 2025](https://www.bilingualism-matters.org/events/bilingualism-matters-symposium-2025)  | 24 de marzo de 2025  |
