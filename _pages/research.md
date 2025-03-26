@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 My research focuses on **the role of language distance in bilingual language processing**. **Language distance** can be defined as the overlap between linguistic (e.g., lexical, phonetic, morphosyntactic, orthographic) features across languages.
-Specifically, I look at whether the **L1-L2 distance influences bilingual lexical access**. 
+Specifically, I look at whether **L1-L2 distance affects bilingual lexical access**. 
 
 As part of my PhD research, I'm currently exploring bilinguals' L2 word recognition, more specifically, how bilinguals process **interlingual homographs**, i.e., words with identical spelling and different meanings across languages. For instance, how Turkish-English bilinguals process words like *bay*, gentleman in Turkish; or how Spanish-English bilinguals process *pan*, bread in Spanish.
 To explore the role of L1-L2 distance in bilingual language processing, I'm comparing **bilingual speakers of close vs distant languages** from different linguistic contexts:
