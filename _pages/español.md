@@ -46,3 +46,8 @@ Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, 
 | **Lara Kelly-Iturriaga** | _The role of typology in the bilingual mental lexicon_  | [Grupo de investigación de Bilingüismo y Lingüística del Desarrollo](https://ppls.ed.ac.uk/linguistics-and-english-language/research/talks-and-reading-groups/bilingualism), Universidad de Edimburgo  | 18 de marzo de 2024  |
 
 *indica los/las presentadores/as.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+## Contacto
+Puedes encontrarme en mi oficina en [Dugald Stewart Building](https://ppls.ed.ac.uk/linguistics-and-english-language/about/contact), 3 Charles Street, Edimburgo. No dudes en ponerte en contacto conmigo escribiéndome al correo [lara.kelly-iturriaga@ed.ac.uk](mailto:lara.kelly-iturriaga@ed.ac.uk).
