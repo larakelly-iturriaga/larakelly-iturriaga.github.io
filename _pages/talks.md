@@ -7,6 +7,7 @@ author_profile: true
 
 | Authors  | Title  | Event | Date |
 | ------------- | ------------- | ------------- | ------------- |
+| **Lara Kelly-Iturriaga**  | The role of language distance in bilingual lexical processing  | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), The University of Edinburgh  | 18 June 2025  |
 | **Lara Kelly-Iturriaga**  | The role of language distance in bilingual language processing ([Poster](https://osf.io/fbgu7))  | [15th International Symposium on Bilingualism (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 13 June 2025  |
 | Evelina Leivada*, **Lara Kelly-Iturriaga**, Camilla Masullo, Marit Westergaard & Jason Rothman  | The impact of language similarity on cognitive adaptations to bilingualism (Poster) | [15th International Symposium on Bilingualism (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 12 June 2025  |
 | **Lara Kelly-Iturriaga** | The role of language distance in bilingual language processing  | [Linguistics and English Language Postgraduate Conference 2025](https://pgc.lel.ed.ac.uk/), The University of Edinburgh  | 4 June 2025  |
