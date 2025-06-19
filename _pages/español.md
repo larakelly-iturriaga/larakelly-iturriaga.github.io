@@ -37,6 +37,7 @@ Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, 
 
 | Autores  | Título  | Evento | Fecha |
 | ------------- | -------------------------- | -------------------------- | ------------------: |
+| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _The effect of language distance on bilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Universidad de Charles, Praga  | 4-6 de septiembre de 2025  |
 | **Lara Kelly-Iturriaga**  | _The role of language distance in bilingual lexical processing_ | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), Universidad de Edimburgo  | 18 de junio de 2025  |
 | **Lara Kelly-Iturriaga**  | _The role of language distance in bilingual language processing_ ([Póster](https://osf.io/fbgu7))  | [15 Simposio Internacional del Bilingüismo (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 13 de junio de 2025  |
 | Evelina Leivada*, **Lara Kelly-Iturriaga**, Camilla Masullo, Marit Westergaard & Jason Rothman  | _The impact of language similarity on cognitive adaptations to bilingualism_ (Póster)  | [15 Simposio Internacional del Bilingüismo (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 12 de junio de 2025  |
