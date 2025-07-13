@@ -33,7 +33,7 @@ Para mi máster investigué cómo **estudiantes de inglés como lengua extranjer
 Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, J. (2025). _The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior_. PsyArXiv. [https://osf.io/preprints/psyarxiv/29ucp_v3](https://osf.io/preprints/psyarxiv/29ucp_v3).
 
 --------------------------------------------------------------------------------------------------------------------
-## Presentaciones y charlas
+## Presentaciones en conferencias
 
 | Autores  | Título  | Evento | Fecha |
 | ------------- | -------------------------- | -------------------------- | ------------------: |
@@ -44,6 +44,12 @@ Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, 
 | **Lara Kelly-Iturriaga** | _The role of language distance in bilingual language processing_  | [Conferencia de Postgrado de Lingüística y Lengua Inglesa 2025](https://pgc.lel.ed.ac.uk/), Universidad de Edimburgo  | 4 de junio de 2025  |
 | Evelina Leivada, Esti Blanco-Elorrieta, **Lara Kelly-Iturriaga***, Camilla Masullo, Marit Westergaard & Jason Rothman  | _Exploring the role of language distance in bilingual cognition: A systematic review_ ([Póster](https://osf.io/yfegr))  | [Simposio Bilingualism Matters 2025](https://www.bilingualism-matters.org/events/bilingualism-matters-symposium-2025), Edimburgo  | 24 de marzo de 2025  |
 | **Lara Kelly-Iturriaga** | _Do you eat pasta for dessert and tender your clothes? Cross-language activation in L1-Turkish and L1-Spanish learners of English_ (Póster)  | [Conferencia de Postgrado de Lingüística y Lengua Inglesa 2024](https://pgc.lel.ed.ac.uk/), Universidad de Edimburgo  | 4 de junio de 2024  |
+
+## Charlas
+
+| Autores  | Título  | Evento | Fecha |
+| ------------- | -------------------------- | -------------------------- | ------------------: |
+| **Lara Kelly-Iturriaga**  | _The role of language distance in bilingual lexical processing_ | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), Universidad de Edimburgo  | 18 de junio de 2025  |
 | **Lara Kelly-Iturriaga** | _Linguistic Distance, Psychotypology and Bilingual Language Processing_  | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2023-24/), Universidad de Edimburgo  | 29 de mayo de 2024  |
 | **Lara Kelly-Iturriaga** | _The role of typology in the bilingual mental lexicon_  | [Grupo de investigación de Bilingüismo y Lingüística del Desarrollo](https://ppls.ed.ac.uk/linguistics-and-english-language/research/talks-and-reading-groups/bilingualism), Universidad de Edimburgo  | 18 de marzo de 2024  |
 
