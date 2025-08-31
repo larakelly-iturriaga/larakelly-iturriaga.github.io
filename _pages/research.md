@@ -22,4 +22,10 @@ I also worked with [Evelina Leivada](https://scholar.google.es/citations?user=x5
 
 --------------------------------------------------------------------------------------------------------------------
 
+I recently created **LexTurk**, a short **Turkish vocabulary test** based on the [English LexTALE (Lemhöfer & Broersma, 2012)](https://www.lextale.com/whatislextale.html) with [Levent Uzun](https://avesis.uludag.edu.tr/ulevent/publications) and [Umut Salihoğlu](https://avesis.uludag.edu.tr/umutms/publications). I am currently collecting data from Azeri-Turkish-English trilinguals and L1-Turkish participants to assess LexTurk's validity.
+
+Feel free to contact me with any questions about stimuli, instructions and additional materials, which can be made available upon request.
+
+--------------------------------------------------------------------------------------------------------------------
+
 For my MA thesis, I focused on how **L1-Turkish and L1-Spanish learners of English processed interlingual homographs** in an L2 lexical decision task. The task also included control words (matched in frequency and length) and English-like non-words. If you are interested in the stimuli used for this study, you can find them [here](https://osf.io/h6mcx). 
