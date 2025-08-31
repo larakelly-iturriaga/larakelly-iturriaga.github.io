@@ -27,7 +27,7 @@ También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?
 
 --------------------------------------------------------------------------------------------------------------------
 
-También he creado **LexTurk**, una **prueba corta de vocabulario en turco** basada en el [LexTALE en inglés (Lemhöfer & Broersma, 2012)](https://www.lextale.com/whatislextale.html) con [Levent Uzun](https://avesis.uludag.edu.tr/ulevent/publications) y [Umut Salihoğlu](https://avesis.uludag.edu.tr/umutms/publications). Actualmente estoy recopilando datos de trilingües de azerbayano-turco-inglés y participantes con L1 turco para evaluar la validez de LexTurk.
+Recientemente he creado **LexTurk**, una **prueba corta de vocabulario en turco** basada en el [LexTALE en inglés (Lemhöfer & Broersma, 2012)](https://www.lextale.com/whatislextale.html) con [Levent Uzun](https://avesis.uludag.edu.tr/ulevent/publications) y [Umut Salihoğlu](https://avesis.uludag.edu.tr/umutms/publications). Actualmente estoy recopilando datos de trilingües de azerbayano-turco-inglés y participantes con L1 turco para evaluar la validez de LexTurk.
 
 No dudes en ponerte en contacto conmigo si tienes preguntas sobre los estímulos, materiales e instrucciones utilizados, que puedo compartir bajo solicitud.
 
