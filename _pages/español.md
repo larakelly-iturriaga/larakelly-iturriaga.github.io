@@ -26,6 +26,12 @@ Mis supervisores de doctorado son [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/
 También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**. Puedes encontrar nuestro pre-print [aquí](https://osf.io/preprints/psyarxiv/29ucp_v3).
 
 --------------------------------------------------------------------------------------------------------------------
+
+También he creado **LexTurk**, una **prueba corta de vocabulario en turco** basada en el [LexTALE en inglés (Lemhöfer & Broersma, 2012)](https://www.lextale.com/whatislextale.html) con [Levent Uzun](https://avesis.uludag.edu.tr/ulevent/publications) y [Umut Salihoğlu](https://avesis.uludag.edu.tr/umutms/publications). Actualmente estoy recopilando datos de trilingües de azerbayano-turco-inglés y participantes con L1 turco para evaluar la validez de LexTurk.
+
+No dudes en ponerte en contacto conmigo si tienes preguntas sobre los estímulos, materiales e instrucciones utilizados, que puedo compartir bajo solicitud.
+
+--------------------------------------------------------------------------------------------------------------------
 Para mi máster investigué cómo **estudiantes de inglés como lengua extranjera con L1-turco y L1-castellano procesaban los homógrafos interlingüísticos** en una tarea de decisión léxica en su L2. La tarea también incluía palabras control (igualadas en longitud y frecuencia) y pseudo-palabras con ortografía inglesa. Si quieres echar un vistazo a los estímulos utilizados en este estudio, los puedes encontrar [aquí](https://osf.io/h6mcx).
 
 --------------------------------------------------------------------------------------------------------------------
@@ -37,7 +43,7 @@ Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, 
 
 | Autores  | Título  | Evento | Fecha |
 | ------------- | -------------------------- | -------------------------- | ------------------: |
-| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _The effect of language distance on bilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Universidad de Charles, Praga  | 4-6 de septiembre de 2025  |
+| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _The effect of language distance on bilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Universidad de Charles, Praga  | 6 de septiembre de 2025  |
 | **Lara Kelly-Iturriaga**  | _The role of language distance in bilingual lexical processing_ | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), Universidad de Edimburgo  | 18 de junio de 2025  |
 | **Lara Kelly-Iturriaga**  | _The role of language distance in bilingual language processing_ ([Póster](https://osf.io/fbgu7))  | [15 Simposio Internacional del Bilingüismo (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 13 de junio de 2025  |
 | Evelina Leivada*, **Lara Kelly-Iturriaga**, Camilla Masullo, Marit Westergaard & Jason Rothman  | _The impact of language similarity on cognitive adaptations to bilingualism_ (Póster)  | [15 Simposio Internacional del Bilingüismo (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 12 de junio de 2025  |
