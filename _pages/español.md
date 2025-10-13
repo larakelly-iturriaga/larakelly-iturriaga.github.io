@@ -23,7 +23,9 @@ Como parte de mi proyecto de doctorado, estoy explorando el reconocimiento de pa
 Mis supervisores de doctorado son [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) y [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
 --------------------------------------------------------------------------------------------------------------------
-También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**. Puedes encontrar nuestro pre-print [aquí](https://osf.io/preprints/psyarxiv/29ucp_v3).
+También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**.
+
+Nuestro manuscrito ha sido aceptado para publicación en *Bilingualism: Language and Cognition* (13/10/25), pero de mientras puedes encontrar nuestro pre-print [aquí](https://osf.io/preprints/psyarxiv/29ucp_v3).
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -36,7 +38,7 @@ Para mi máster investigué cómo **estudiantes de inglés como lengua extranjer
 
 --------------------------------------------------------------------------------------------------------------------
 ## Publicaciones
-Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, J. (2025). _The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior_. PsyArXiv. [https://osf.io/preprints/psyarxiv/29ucp_v3](https://osf.io/preprints/psyarxiv/29ucp_v3).
+Leivada, E., **Kelly-Iturriaga, L. M.**, Masullo, C., Westergaard, M., Rothman, J. (en prensa). The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior. *Bilingualism: Language and Cognition*.
 
 --------------------------------------------------------------------------------------------------------------------
 ## Presentaciones en conferencias
