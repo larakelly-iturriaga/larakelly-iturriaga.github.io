@@ -10,9 +10,9 @@ Specifically, I look at whether **L1-L2 distance affects bilingual lexical acces
 
 As part of my PhD research, I'm currently exploring bilinguals' L2 word recognition, more specifically, how bilinguals process **interlingual homographs**, i.e., words with identical spelling and different meanings across languages. For instance, how Turkish-English bilinguals process words like *bay*, gentleman in Turkish; or how Spanish-English bilinguals process *pie*, foot in Spanish.
 To explore the role of L1-L2 distance in bilingual language processing, I'm comparing **bilingual speakers of close vs distant languages** from different linguistic contexts:
-1. Study 1, comparing **Turkish-English** and **Spanish-English bilinguals** from *monolingual communities*
-2. Study 2, comparing **Basque-Spanish** and **Catalan-Spanish bilinguals** from *bilingual communities*
-3. Study 3, comparing L2 and L3 word recognition in **Azeri-Turkish-English trilinguals** from *monolingual communities*
+1. Experiment 1, comparing **Turkish-English** and **Spanish-English bilinguals** from *monolingual communities*
+2. Experiment 2, comparing **Basque-Spanish** and **Catalan-Spanish bilinguals** from *bilingual communities*
+3. Experiment 3, comparing L2 and L3 word recognition in **Azeri-Turkish-English trilinguals** from *monolingual communities*
 
 My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
