@@ -20,7 +20,7 @@ My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof
 
 I also worked with [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) and [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) on a **systematic review of the role of language distance in bilingual cognition**.
 
-Our paper just got published in *Bilingualism: Language and Cognition* (11/11/2025) [The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior](https://doi.org/10.1017/S1366728925100746).
+Our paper 'The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior' just got published in *Bilingualism: Language and Cognition* (11/11/2025) [https://doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746).
 
 --------------------------------------------------------------------------------------------------------------------
 
