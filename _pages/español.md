@@ -16,9 +16,9 @@ Crecí en **Bilbao, Euskal Herria**, un entorno bilingüe. Mis padres me criario
 Mi investigación se centra en **el rol de la distancia interlingüística en el procesamiento del lenguaje en personas bilingües**. La distancia interlingüística se puede definir como la superposición de características lingüísticas (e.g., léxicas, fonéticas, morfosintácticas, ortográficas) entre lenguas. Más concretamente, me centro en si **la distancia L1-L2 afecta al acceso léxico bilingüe**.
 
 Como parte de mi proyecto de doctorado, estoy explorando el reconocimiento de palabras en la L2 en personas bilingües, centrándome en cómo procesan los **homógrafos interlingüísticos**, i.e., palabras que se escriben igual pero tienen significados diferentes en ambos idiomas. Por ejemplo, cómo bilingües de turco e inglés procesan palabras como _bay_, caballero en turco y bahía en inglés; o cómo bilingües de español e inglés procesan _pie_, pastel en inglés. Para explorar el rol de la distancia L1-L2 en el procesamiento del lenguaje en personas bilingües, comparo a **bilingües de lenguas cercanas vs distantes** de diferentes contextos lingüísticos:
-1. Estudio 1, comparando **bilingües de turco-inglés** y **castellano-inglés** de _comunidades monolingües_
-2. Estudio 2, comparando **bilingües de euskera-castellano** y **catalán-castellano** de _comunidades bilingües_
-3. Estudio 3, comparando el reconocimiento de palabras en la L2 y L3 en **trilingües de azerbayano-turco-inglés** de _comunidades monolingües_
+1. Experimento 1, comparando **bilingües de turco-inglés** y **castellano-inglés** de _comunidades monolingües_
+2. Experimento 2, comparando **bilingües de euskera-castellano** y **catalán-castellano** de _comunidades bilingües_
+3. Experimento 3, comparando el reconocimiento de palabras en la L2 y L3 en **trilingües de azerbayano-turco-inglés** de _comunidades monolingües_
 
 Mis supervisores de doctorado son [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) y [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
