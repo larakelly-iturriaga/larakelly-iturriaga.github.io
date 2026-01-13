@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find an updated version of my CV [here](https://larakelly-iturriaga.github.io/CVLaraKelly-Iturriaga.pdf). Last updated 12/11/25.
+Here's an updated version of [my CV](https://larakelly-iturriaga.github.io/CVLaraKelly-Iturriaga.pdf). Last updated 13/01/26.
