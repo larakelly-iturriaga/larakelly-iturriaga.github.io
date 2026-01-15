@@ -16,6 +16,8 @@ To explore the role of L1-L2 distance in bilingual language processing, I'm comp
 
 My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
+We are currently preparing a manuscript for publication based on data from Experiments 1 and 2. Data and code for data analysis are available on [my OSF](https://osf.io/bkv2a/overview?view_only=9159df1964af4563bf27cdde500245f1).
+
 --------------------------------------------------------------------------------------------------------------------
 
 I also worked with [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) and [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) on a **systematic review of the role of language distance in bilingual cognition**.
