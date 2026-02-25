@@ -9,7 +9,7 @@ author_profile: true
 
 | Authors  | Title  | Event | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | Does language distance affect bilingual lexical processing? | [35th annual conference of the European Second Language Association](https://eurosla35.fcsh.unl.pt/), Research Center for Linguistics (CLUNL) at NOVA University Lisbon, Lisbon  | 24-27 June 2026 |
+| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | Does language distance affect bilingual lexical processing? | [35th annual conference of the European Second Language Association (EuroSLA 35)](https://eurosla35.fcsh.unl.pt/), Research Center for Linguistics (CLUNL) at NOVA University Lisbon, Lisbon  | 24-27 June 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | The effect of language distance on bilingual lexical processing (Poster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Charles University, Prague  | 6 September 2025  |
 | **Lara Kelly-Iturriaga**  | The role of language distance in bilingual language processing ([Poster](https://osf.io/fbgu7))  | [15th International Symposium on Bilingualism (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 13 June 2025  |
 | Evelina Leivada*, **Lara Kelly-Iturriaga**, Camilla Masullo, Marit Westergaard & Jason Rothman  | The impact of language similarity on cognitive adaptations to bilingualism (Poster) | [15th International Symposium on Bilingualism (ISB15)](https://www.bcbl.eu/events/isb15/en/), Basque Center on Cognition, Brain and Language, Donostia-San Sebastián  | 12 June 2025  |
