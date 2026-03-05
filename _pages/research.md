@@ -28,7 +28,7 @@ Our paper 'The unpredictable role of language distance in bilingual cognition: A
 
 I recently created **LexTurk**, a short **Turkish vocabulary test** based on the [English LexTALE (Lemhöfer & Broersma, 2012)](https://www.lextale.com/whatislextale.html) with [Levent Uzun](https://avesis.uludag.edu.tr/ulevent/publications) and [Umut Salihoğlu](https://avesis.uludag.edu.tr/umutms/publications). I am currently collecting data from Azeri-Turkish-English trilinguals and L1-Turkish participants to assess LexTurk's validity.
 
-Feel free to contact me with any questions about stimuli, instructions and additional materials, which can be made available upon request.
+The [LexTurk website](https://larakelly-iturriaga.github.io/lexturk/) is up and running - stimuli, instructions, and downloadable materials will be uploaded to the website in due course.
 
 --------------------------------------------------------------------------------------------------------------------
 
