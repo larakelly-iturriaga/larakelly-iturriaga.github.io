@@ -22,7 +22,7 @@ author_profile: true
 
 | Authors  | Title  | Event | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| **Lara Kelly-Iturriaga**, Mitsuhiko Ota & Martin Pickering  | The effect of language distance on bilingual lexical processing: evidence from interlingual homographs  | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/programme/), The University of Edinburgh  | 31 March 2026  |
+| **Lara Kelly-Iturriaga**  | Language distance effects on bilingual lexical processing: broadening the picture | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/programme/), The University of Edinburgh  | 31 March 2026  |
 | **Lara Kelly-Iturriaga**  | Does language distance affect bilingual lexical processing?  | Dr Simone Sulpizio's lab, The University of Milano-Bicocca  | 27 February 2026  |
 | **Lara Kelly-Iturriaga**  | The effect of language distance on bilingual lexical processing  | [Bilingualism and Developmental Linguistics Research Group](https://ppls.ed.ac.uk/linguistics-and-english-language/research/talks-and-reading-groups/bilingualism), The University of Edinburgh  | 26 February 2026  |
 | **Lara Kelly-Iturriaga**  | The role of language distance in bilingual lexical processing  | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), The University of Edinburgh  | 18 June 2025  |
