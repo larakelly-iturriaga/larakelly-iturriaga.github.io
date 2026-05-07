@@ -13,19 +13,21 @@ Crecí en **Bilbao, Euskal Herria**, un entorno bilingüe. Mis padres me criario
 --------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
 ## Investigación
-Mi investigación se centra en **el rol de la distancia interlingüística en el procesamiento del lenguaje en personas bilingües**. La distancia interlingüística se puede definir como la superposición de características lingüísticas (e.g., léxicas, fonéticas, morfosintácticas, ortográficas) entre lenguas. Más concretamente, me centro en si **la distancia L1-L2 afecta al acceso léxico bilingüe**.
+Mi investigación se centra en **el rol de la distancia interlingüística en el procesamiento del lenguaje en personas bilingües y trilingües**. La distancia interlingüística se puede definir como la superposición de características lingüísticas (e.g., léxicas, fonéticas, morfosintácticas, ortográficas) entre lenguas. Más concretamente, me centro en si **la distancia L1-L2 afecta al acceso léxico bilingüe y trilingüe**.
 
-Como parte de mi proyecto de doctorado, estoy explorando el reconocimiento de palabras en la L2 en personas bilingües, centrándome en cómo procesan los **homógrafos interlingüísticos**, i.e., palabras que se escriben igual pero tienen significados diferentes en ambos idiomas. Por ejemplo, cómo bilingües de turco e inglés procesan palabras como _bay_, caballero en turco y bahía en inglés; o cómo bilingües de español e inglés procesan _pie_, pastel en inglés. Para explorar el rol de la distancia L1-L2 en el procesamiento del lenguaje en personas bilingües, comparo a **bilingües de lenguas cercanas vs distantes** de diferentes contextos lingüísticos:
+Como parte de mi proyecto de doctorado, estoy explorando el reconocimiento de palabras en la L2 y L3 en personas bilingües y trilingües, centrándome en cómo procesan los **homógrafos interlingüísticos**, i.e., palabras que se escriben igual pero tienen significados diferentes en ambos idiomas. Por ejemplo, cómo bilingües de turco e inglés procesan palabras como _bay_, caballero en turco y bahía en inglés; o cómo bilingües de español e inglés procesan _pie_, pastel en inglés. Para explorar el rol de la distancia L1-L2 en el procesamiento del lenguaje en personas bilingües y trilingües, comparo a **bilingües y trilingües de lenguas cercanas vs distantes** de diferentes contextos lingüísticos:
 1. Experimento 1, comparando **bilingües de turco-inglés** y **castellano-inglés** de _comunidades monolingües_
 2. Experimento 2, comparando **bilingües de euskera-castellano** y **catalán-castellano** de _comunidades bilingües_
 3. Experimento 3, comparando el reconocimiento de palabras en la L2 y L3 en **trilingües de azerbayano-turco-inglés** de _comunidades monolingües_
 
 Mis supervisores de doctorado son [Prof Mits Ota](https://mits-ota.github.io/) y [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
+Hemos enviado un artículo basado en datos de los Experimentos 1 y 2 para publicación en una revista, que actualmente está bajo revisión (07/05/2026).
+
 --------------------------------------------------------------------------------------------------------------------
 También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**.
 
-Nuestro artículo ‘The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior’ ha sido publicado en _Bilingualism: Language and Cognition_ (11/11/2025) [https://doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746).
+Nuestro artículo ‘The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior’ fue publicado en _Bilingualism: Language and Cognition_ (11/11/2025) [https://doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746).
 
 --------------------------------------------------------------------------------------------------------------------
 
