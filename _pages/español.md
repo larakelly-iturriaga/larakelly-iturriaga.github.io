@@ -33,7 +33,7 @@ Nuestro artículo ‘The unpredictable role of language distance in bilingual co
 
 Recientemente he creado **LexTurk**, una **prueba corta de vocabulario en turco** basada en el [LexTALE en inglés (Lemhöfer & Broersma, 2012)](https://www.lextale.com/whatislextale.html) con [Levent Uzun](https://avesis.uludag.edu.tr/ulevent/publications) y [Umut Salihoğlu](https://avesis.uludag.edu.tr/umutms/publications). Actualmente estoy recopilando datos de trilingües de azerbayano-turco-inglés y participantes con L1 turco para evaluar la validez de LexTurk.
 
-La [página web de LexTurk](https://larakelly-iturriaga.github.io/lexturk/) está en funcionamiento - los estímulos, instrucciones y materiales descargable serán publicados a la página pronto.
+La [página web de LexTurk](https://larakelly-iturriaga.github.io/lexturk/) está en funcionamiento. Subiré los estímulos, instrucciones y materiales descargables a la página pronto.
 
 --------------------------------------------------------------------------------------------------------------------
 Para mi máster investigué cómo **estudiantes de inglés como lengua extranjera con L1-turco y L1-castellano procesaban los homógrafos interlingüísticos** en una tarea de decisión léxica en su L2. La tarea también incluía palabras control (igualadas en longitud y frecuencia) y pseudo-palabras con ortografía inglesa. Si quieres echar un vistazo a los estímulos utilizados en este estudio, los puedes encontrar [aquí](https://osf.io/h6mcx).
