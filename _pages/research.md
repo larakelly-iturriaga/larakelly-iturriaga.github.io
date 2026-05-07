@@ -14,7 +14,7 @@ To explore the role of L1-L2 distance in bi/trilingual language processing, I'm 
 2. Experiment 2, comparing **Basque-Spanish** and **Catalan-Spanish bilinguals** from *bilingual communities*
 3. Experiment 3, comparing L2 and L3 word recognition in **Azeri-Turkish-English trilinguals** from *monolingual communities*
 
-My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
+My PhD supervisors are [Prof Mits Ota](https://mits-ota.github.io/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
 We have submitted a manuscript for publication based on data from Experiments 1 and 2, which is currently under review.
 
