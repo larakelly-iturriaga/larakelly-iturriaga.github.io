@@ -8,15 +8,15 @@ author_profile: true
 My research focuses on **the role of language distance in bilingual language processing**. **Language distance** can be defined as the overlap between linguistic (e.g., lexical, phonetic, morphosyntactic, orthographic) features across languages.
 Specifically, I look at whether **L1-L2 distance affects bilingual lexical access**. 
 
-As part of my PhD research, I'm currently exploring bilinguals' L2 word recognition, more specifically, how bilinguals process **interlingual homographs**, i.e., words with identical spelling and different meanings across languages. For instance, how Turkish-English bilinguals process words like *bay*, gentleman in Turkish; or how Spanish-English bilinguals process *pie*, foot in Spanish.
-To explore the role of L1-L2 distance in bilingual language processing, I'm comparing **bilingual speakers of close vs distant languages** from different linguistic contexts:
+As part of my PhD research, I'm currently exploring bilinguals' and trilinguals' L2/L3 word recognition, more specifically, how bi/trilinguals process **interlingual homographs**, i.e., words with identical spelling and different meanings across languages. For instance, how Turkish-English bilinguals process words like *bay*, gentleman in Turkish; or how Spanish-English bilinguals process *pie*, foot in Spanish.
+To explore the role of L1-L2 distance in bi/trilingual language processing, I'm comparing **bi/trilingual speakers of close vs distant languages** from different linguistic contexts:
 1. Experiment 1, comparing **Turkish-English** and **Spanish-English bilinguals** from *monolingual communities*
 2. Experiment 2, comparing **Basque-Spanish** and **Catalan-Spanish bilinguals** from *bilingual communities*
 3. Experiment 3, comparing L2 and L3 word recognition in **Azeri-Turkish-English trilinguals** from *monolingual communities*
 
 My PhD supervisors are [Prof Mits Ota](http://www.lel.ed.ac.uk/~mits/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
-We are currently preparing a manuscript for publication based on data from Experiments 1 and 2.
+We have submitted a manuscript for publication based on data from Experiments 1 and 2, which is currently under review.
 
 --------------------------------------------------------------------------------------------------------------------
 
