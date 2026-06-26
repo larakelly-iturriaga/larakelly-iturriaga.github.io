@@ -12,11 +12,11 @@ As part of my PhD research, I'm currently exploring bilinguals' and trilinguals'
 To explore the role of L1-L2 distance in bi/trilingual language processing, I'm comparing **bi/trilingual speakers of close vs distant languages** from different linguistic contexts:
 1. Experiment 1, comparing **Turkish-English** and **Spanish-English bilinguals** from *monolingual communities*
 2. Experiment 2, comparing **Basque-Spanish** and **Catalan-Spanish bilinguals** from *bilingual communities*
-3. Experiment 3, comparing L2 and L3 word recognition in **Azeri-Turkish-English trilinguals** from *monolingual communities*
+3. Experiment 3, comparing L2 and L3 word recognition in **Azerbaijani-Turkish-English trilinguals** immersed in a *monolingual community*
 
 My PhD supervisors are [Prof Mits Ota](https://mits-ota.github.io/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
-We have submitted a manuscript for publication based on data from Experiments 1 and 2, which is currently under review.
+We are currently revising a manuscript based on data from Experiments 1 and 2, which we will submit for publication soon.
 
 --------------------------------------------------------------------------------------------------------------------
 
