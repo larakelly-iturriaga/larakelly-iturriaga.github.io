@@ -9,7 +9,7 @@ author_profile: true
 
 | Authors  | Title  | Event | Date |
 | ------------- | ------------- | ------------- | ------------- |
-| **Lara Kelly-Iturriaga** | Language distance effects on trilingual lexical processing (Poster) | [Architectures and Mechanisms for Language Processing 2026 (AMLaP2026)](https://www.uni-saarland.de/fakultaet-p/amlap.html), Saarland University, Saarbrücken, Germany | 2-4 September 2026 |
+| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering | Language distance effects on trilingual lexical processing (Poster) | [Architectures and Mechanisms for Language Processing 2026 (AMLaP2026)](https://www.uni-saarland.de/fakultaet-p/amlap.html), Saarland University, Saarbrücken, Germany | 2-4 September 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering | Does language distance affect bilingual lexical processing? | [35th Annual Conference of the European Second Language Association (EuroSLA 35)](https://eurosla35.fcsh.unl.pt/), Research Center for Linguistics (CLUNL) at NOVA University Lisbon  | 26 June 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering | Language distance effects on bilingual lexical processing: evidence from interlingual homographs | [6th International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC 2026)](https://isbpac.info/), University of Reading  | 18 June 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | The effect of language distance on bilingual lexical processing (Poster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Charles University, Prague  | 6 September 2025  |
