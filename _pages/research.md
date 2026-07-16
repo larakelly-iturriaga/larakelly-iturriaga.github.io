@@ -16,7 +16,7 @@ To explore the role of L1-L2 distance in bi/trilingual language processing, I'm 
 
 My PhD supervisors are [Prof Mits Ota](https://mits-ota.github.io/) and [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
-We are currently revising a manuscript based on data from Experiments 1 and 2, which we will submit for publication soon.
+We are have submitted a manuscript based on data from Experiments 1 and 2 for publication.
 
 --------------------------------------------------------------------------------------------------------------------
 
