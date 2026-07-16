@@ -42,7 +42,9 @@ Para mi máster investigué cómo **estudiantes de inglés como lengua extranjer
 ## Publicaciones
 
 **Kelly-Iturriaga, L. M.**, Uzun, L., Salihoğlu, U. M., & Çetinavcı, U. R. (2026). *Introducing LexTurk: A quick lexical test for learners of Turkish*. PsyArXiv. [osf.io/preprints/psyarxiv/tbhgv_v1](https://osf.io/preprints/psyarxiv/tbhgv_v1)
+
 **Kelly-Iturriaga, L. M.**, Ota, M., & Pickering, M. J. (2026). *The effect of language distance on bilingual lexical processing: Evidence from interlingual homographs*. [Manuscrito enviado para publicación]. Departamento de Filosofía, Psicología y Ciencias de la Lengua, Universidad de Edimburgo.
+
 Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M., & Rothman, J. (2025). The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior. *Bilingualism: Language and Cognition*, 1–14. [doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746)
 
 --------------------------------------------------------------------------------------------------------------------
@@ -50,7 +52,7 @@ Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M., & Rothman, J
 
 | Autores  | Título  | Evento | Fecha |
 | ------------- | -------------------------- | -------------------------- | ------------------: |
-| **Lara Kelly-Iturriaga** | _Language distance effects on trilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2026 (AMLaP2026)](https://www.uni-saarland.de/fakultaet-p/amlap.html), Universidad de Saarland, Saarbrücken, Alemania | 2-4 de septiembre de 2026 |
+| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering | _Language distance effects on trilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2026 (AMLaP2026)](https://www.uni-saarland.de/fakultaet-p/amlap.html), Universidad de Saarland, Saarbrücken, Alemania | 2-4 de septiembre de 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _Does language distance affect bilingual lexical processing?_ | [35 Conferencia Anual de la Asociación Europea de la Segunda Lengua (EuroSLA 35)](https://eurosla35.fcsh.unl.pt/), Centro de Lingüística de la Universidad NOVA de Lisboa (CLUNL)  | 26 de junio de 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _Language distance effects on bilingual lexical processing: evidence from interlingual homographs_ | [6 Simposio Internacional del Procesamiento Bilingüe y L2 en Adultos y Niños (ISBPAC 2026)](https://isbpac.info/), Universidad de Reading  | 18 de junio de 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _The effect of language distance on bilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Universidad de Charles, Praga  | 6 de septiembre de 2025  |
@@ -65,13 +67,20 @@ Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M., & Rothman, J
 | Autores  | Título  | Evento | Fecha |
 | ------------- | -------------------------- | -------------------------- | ------------------: |
 | **Lara Kelly-Iturriaga**  | _Language distance effects on bilingual lexical processing: broadening the picture_ | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/programme/), Universidad de Edimburgo  | 31 de marzo de 2026  |
-| **Lara Kelly-Iturriaga**  | _Does language distance affect bilingual lexical processing?_  | Laboratorio de Dr Simone Sulpizio, Universidad de Milano-Bicocca  | 27 de febrero de 2026  |
+| **Lara Kelly-Iturriaga**  | _Does language distance affect bilingual lexical processing?_  | Laboratorio de Simone Sulpizio, Universidad de Milano-Bicocca  | 27 de febrero de 2026  |
 | **Lara Kelly-Iturriaga**  | _The effect of language distance on bilingual lexical processing_  | [Grupo de investigación de Bilingüismo y Lingüística del Desarrollo](https://ppls.ed.ac.uk/linguistics-and-english-language/research/talks-and-reading-groups/bilingualism), Universidad de Edimburgo  | 26 de febrero de 2026  |
 | **Lara Kelly-Iturriaga**  | _The role of language distance in bilingual lexical processing_ | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/), Universidad de Edimburgo  | 18 de junio de 2025  |
 | **Lara Kelly-Iturriaga** | _Linguistic Distance, Psychotypology and Bilingual Language Processing_  | [Psycholinguistics Coffee](https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2023-24/), Universidad de Edimburgo  | 29 de mayo de 2024  |
 | **Lara Kelly-Iturriaga** | _The role of typology in the bilingual mental lexicon_  | [Grupo de investigación de Bilingüismo y Lingüística del Desarrollo](https://ppls.ed.ac.uk/linguistics-and-english-language/research/talks-and-reading-groups/bilingualism), Universidad de Edimburgo  | 18 de marzo de 2024  |
 
 *indica los/las presentadores/as.
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+## CV
+
+Aquí puedes encontrar una versión actualizada de [mi currículum](https://larakelly-iturriaga.github.io/CV160726LKIes.pdf) en castellano. Última actualización: 16/07/26.
 
 --------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
