@@ -22,12 +22,12 @@ Como parte de mi proyecto de doctorado, estoy explorando el reconocimiento de pa
 
 Mis supervisores de doctorado son [Prof Mits Ota](https://mits-ota.github.io/) y [Prof Martin Pickering](https://edwebprofiles.ed.ac.uk/profile/martin-pickering).
 
-Estamos revisando un artículo basado en datos de los Experimentos 1 y 2, que enviaremos para publicación pronto.
+Hemos enviado un artículo basado en datos de los Experimentos 1 y 2 para publicación.
 
 --------------------------------------------------------------------------------------------------------------------
 También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**.
 
-Nuestro artículo ‘The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior’ fue publicado en _Bilingualism: Language and Cognition_ (11/11/2025) [https://doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746).
+Nuestro artículo ‘The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior’ está publicado en la revista [*Bilingualism: Language and Cognition*](https://doi.org/10.1017/S1366728925100746).
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,10 @@ Para mi máster investigué cómo **estudiantes de inglés como lengua extranjer
 
 --------------------------------------------------------------------------------------------------------------------
 ## Publicaciones
-Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M. and Rothman, J. (2025). The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior. *Bilingualism: Language and Cognition*, 1–14. [https://doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746)
+
+**Kelly-Iturriaga, L. M.**, Uzun, L., Salihoğlu, U. M., & Çetinavcı, U. R. (2026). *Introducing LexTurk: A quick lexical test for learners of Turkish*. PsyArXiv. [osf.io/preprints/psyarxiv/tbhgv_v1](https://osf.io/preprints/psyarxiv/tbhgv_v1)
+**Kelly-Iturriaga, L. M.**, Ota, M., & Pickering, M. J. (2026). *The effect of language distance on bilingual lexical processing: Evidence from interlingual homographs*. [Manuscrito enviado para publicación]. Departamento de Filosofía, Psicología y Ciencias de la Lengua, Universidad de Edimburgo.
+Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M., & Rothman, J. (2025). The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior. *Bilingualism: Language and Cognition*, 1–14. [doi.org/10.1017/S1366728925100746](https://doi.org/10.1017/S1366728925100746)
 
 --------------------------------------------------------------------------------------------------------------------
 ## Presentaciones en conferencias
