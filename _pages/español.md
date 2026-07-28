@@ -25,7 +25,7 @@ Mis supervisores de doctorado son [Prof Mits Ota](https://mits-ota.github.io/) y
 Hemos enviado un artículo basado en datos de los Experimentos 1 y 2 para publicación.
 
 --------------------------------------------------------------------------------------------------------------------
-También he trabajado con [Evelina Leivada](https://scholar.google.es/citations?user=x5Hww14AAAAJ&hl=es), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**.
+También he trabajado con [Evelina Leivada](https://evelinaleivada.com/), [Camilla Masullo](https://camillamasullo.wixsite.com/camillamasullo), [Marit Westergaard](https://scholar.google.com/citations?user=KFsnIxQAAAAJ&hl=en) y [Jason Rothman](https://scholar.google.com/citations?user=VNnwuokAAAAJ&hl=en) en una **revisión sistemática explorando el rol de la distancia interlingüística en la cognición bilingüe**.
 
 Nuestro artículo ‘The unpredictable role of language distance in bilingual cognition: A systematic review from brain to behavior’ está publicado en la revista [*Bilingualism: Language and Cognition*](https://doi.org/10.1017/S1366728925100746).
 
@@ -52,7 +52,7 @@ Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M., & Rothman, J
 
 | Autores  | Título  | Evento | Fecha |
 | ------------- | -------------------------- | -------------------------- | ------------------: |
-| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering | _Language distance effects on trilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2026 (AMLaP2026)](https://www.uni-saarland.de/fakultaet-p/amlap.html), Universidad de Saarland, Saarbrücken, Alemania | 2-4 de septiembre de 2026 |
+| **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering | _Language distance effects on trilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2026 (AMLaP2026)](https://www.uni-saarland.de/fakultaet-p/amlap.html), Universidad de Saarland, Saarbrücken, Alemania | 4 de septiembre de 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _Does language distance affect bilingual lexical processing?_ | [35 Conferencia Anual de la Asociación Europea de la Segunda Lengua (EuroSLA 35)](https://eurosla35.fcsh.unl.pt/), Centro de Lingüística de la Universidad NOVA de Lisboa (CLUNL)  | 26 de junio de 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _Language distance effects on bilingual lexical processing: evidence from interlingual homographs_ | [6 Simposio Internacional del Procesamiento Bilingüe y L2 en Adultos y Niños (ISBPAC 2026)](https://isbpac.info/), Universidad de Reading  | 18 de junio de 2026 |
 | **Lara Kelly-Iturriaga***, Mitsuhiko Ota & Martin Pickering  | _The effect of language distance on bilingual lexical processing_ (Póster) | [Architectures and Mechanisms for Language Processing 2025 (AMLaP2025)](https://amlap2025.ff.cuni.cz/), Universidad de Charles, Praga  | 6 de septiembre de 2025  |
