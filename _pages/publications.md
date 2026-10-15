@@ -15,5 +15,4 @@ Leivada, E., **Kelly-Iturriaga, L.**, Masullo, C., Westergaard, M., & Rothman, J
 test for learners of Turkish*. PsyArXiv. [osf.io/preprints/psyarxiv/tbhgv_v1](https://osf.io/preprints/psyarxiv/tbhgv_v1)
 
 **Kelly-Iturriaga, L. M.**, Ota, M., & Pickering, M. J. (2026). *The effect of language distance on bilingual lexical
-processing: Evidence from interlingual homographs*. [Manuscript submitted for publication]. School of Philosophy, Psychology and
-Language Sciences, University of Edinburgh.
+processing: Evidence from interlingual homographs*. [Invited revision].
